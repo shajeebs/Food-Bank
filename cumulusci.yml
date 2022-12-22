@@ -3,7 +3,7 @@ project:
     name: Food-Bank
     package:
         name: Food-Bank
-        namespace: shajeebfoodbank
+        namespace: ssfb
         api_version: '55.0'
     git:
         default_branch: 'main'
